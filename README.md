@@ -1,4 +1,4 @@
-Author: Chau Bao Ngo \n
+Author: Chau Bao Ngo
 Course: CS680
 Homework #1.
 
